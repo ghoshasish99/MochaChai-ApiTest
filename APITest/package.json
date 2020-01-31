@@ -1,0 +1,17 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "Api test using Mocha and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/apitest.js"
+  },
+  "author": "Ashish Ghosh",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  }
+}
